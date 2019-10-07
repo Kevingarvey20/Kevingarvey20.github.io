@@ -1,0 +1,138 @@
+@charset "UTF-8";
+footer {
+	margin-top: 25px;
+	text-align: center;
+	color: #000000;
+	
+	
+}
+.navbar.navbar-default .container-fluid .navbar-header {
+}
+body {
+	background-color: #F96846;
+	background-image:url("images/FarmingdaleLogin.jpg")
+}
+h3 {
+}
+
+.thumbnail {
+	background-color: #F96A47;
+}
+.thumbnail .caption p {
+	background-color: #F8F5F5;
+}
+.navbar.navbar-default .container-fluid h1 {
+	text-align: center;
+	background-color: #F96847;
+	text-decoration: underline;
+	font-family: asap;
+	font-style: normal;
+	font-weight: 600;
+}
+.thumbnail .caption {
+}
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	background-color: grey;
+	color: #000000;
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #000000;
+}
+
+.nav.navbar-nav.navbar-left li a {
+	color: #000000;
+}
+.navbar-default {
+	text-align: center;
+}
+.navbar-header {
+	text-align: center;
+}
+
+h1{
+	background-color: silver;
+	border-bottom: #FFA500 medium solid;
+	background-image:url("images/FarmingdaleLogin.jpg")
+	
+}
+
+#sbd {
+	border: black medium solid;
+	text-align: center;
+}
+#mullen {
+	border: black medium solid;
+	text-align: center; 
+}
+
+#wrapper {
+	max-width: 1020px;
+	margin: 0 auto 0 auto;
+}
+#h3{
+    background-color: lightslategray;
+    border-bottom: #FFA500 medium solid;
+    text-align: center;
+}
+
+h2{
+	background-color:darkslategray;
+	border-bottom: #FFA500 medium dashed;
+}
+#p {
+    font-size: 20px;
+}
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
